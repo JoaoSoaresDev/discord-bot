@@ -8,7 +8,7 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-const token string = "ODcyNzMwOTg1OTcwNjYzNDU0.YQuIEQ.7cnjUQVo-vdYOKyyYHM2bmAvzG0"
+const token string = "{*some token*}"
 
 var BotID string
 
